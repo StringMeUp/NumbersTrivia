@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">NumbersTrivia</string>
+    //fragment_options
+    <string name="titleTextView">Judgement Call</string>
+    <string name="descriptionTextView">Dial your numbers here… \n Choose either random or search \n for your favorite numbers!</string>
+    <string name="randomNumberButton">Random Numbers</string>
+    <string name="searchNumberButton">Search Numbers</string>
+    //fragment_random
+    <string name="randomTextView"> Have fun! \n Read about random numbers! \n Get trivia, random dates, math or look up years! </string>
+    <string name="randomTriviaButton">Random Trivia</string>
+    <string name="randomYearButton">Random Year</string>
+    <string name="randomDateButton">Random Date</string>
+    <string name="randomMathButton">Random Math</string>
+    //fragment_search
+    <string name="searchTextView">Everything you wanted to \n know about your favorite \n numbers in one place! \n Search here! </string>
+    <string name="searchTriviaButton">Search Trivia</string>
+    <string name="searchYearButton">Search Year</string>
+    <string name="searchDateButton">Search Date</string>
+    <string name="searchMathButton">Search Math</string>
+    <string name="editTextText">Enter Number…</string>
+    //menu_main
+    <string name="homeTitle">Home</string>
+    <string name="randomTitle">Random</string>
+    <string name="searchTitle">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
