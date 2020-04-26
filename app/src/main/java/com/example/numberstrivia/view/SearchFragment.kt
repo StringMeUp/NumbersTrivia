@@ -37,8 +37,7 @@ class SearchFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
-        binding.editSearch.typeface =
+        binding.textDescription.typeface =
             ResourcesCompat.getFont(requireContext(), R.font.greatadventure)
         binding.textDisplay.typeface =
             ResourcesCompat.getFont(requireContext(), R.font.automobile)

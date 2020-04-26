@@ -12,7 +12,7 @@
     <string name="randomDateButton">Random Date</string>
     <string name="randomMathButton">Random Math</string>
     //fragment_search
-    <string name="searchTextView">Everything you wanted to \n know about your favorite \n numbers in one place! \n Search here! </string>
+    <string name="searchTextView">Everything you \n wanted to know about \n your favorite numbers \n in one place! \n Search here! </string>
     <string name="searchTriviaButton">Search Trivia</string>
     <string name="searchYearButton">Search Year</string>
     <string name="searchDateButton">Search Date</string>
